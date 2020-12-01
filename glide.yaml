@@ -1,0 +1,8 @@
+package: opcli
+import:
+- package: github.com/urfave/cli
+  version: ~2.3.0
+  subpackages:
+  - v2
+- package: github.com/teris-io/cli
+  version: ^1.0.1

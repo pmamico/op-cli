@@ -1,0 +1,10 @@
+hash: 8f13783dc366881e3646969d80923262559f1374a635fa9e56e2ecbb37619326
+updated: 2020-11-30T23:22:08.55684+01:00
+imports:
+- name: github.com/teris-io/cli
+  version: 903598a017880e40a9edea0b45eabf00ff24ab60
+- name: github.com/urfave/cli
+  version: 09ac54c2f97f4249282baf266c54a09fab1bef58
+  subpackages:
+  - v2
+testImports: []

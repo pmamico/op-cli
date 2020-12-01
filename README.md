@@ -30,5 +30,7 @@ pl.:
 
 másfél órát logol tegnapra a 2408 package-re  
 
+![alt text](https://user-images.githubusercontent.com/19253721/100717691-ad569b80-33ba-11eb-9dc1-29dc9c2fd9d7.png)
+
 
 
